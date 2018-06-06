@@ -1,7 +1,10 @@
 Texts:
 ------------------------------------
 >ABOUT
+Before I kick the metaphorical bucket, some things have to be done. Some places have to be traveled, foods have to be eaten and people have to be met. And above all, the below selection of activities and locations must have been done and visited before I'm unable to do so. 
 
+About photo
+	https://images.pexels.com/photos/804270/pexels-photo-804270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=500
 
 >TODOS - Main Page
 Skydive
@@ -25,64 +28,109 @@ India
 
 >TODOTEXT
 Skydive
-	[insert text here]
+	Parachuting, or skydiving, is a method of transiting from a high point to Earth with the aid of gravity, involving the control of speed during the descent with the use of a parachute/s. It may involve more or less free-falling which is a period during the parachute has not been deployed and the body gradually accelerates to terminal velocity.
+	The military developed parachuting technology as a way to save aircrews from emergencies aboard balloons and aircraft in flight, and later as a way of delivering soldiers to the battlefield. Early competitions date back to the 1930s, and it became an international sport in 1952
 Route 66
-	[insert text here]
-Pan-American 
-	[insert text here]
+	U.S. Route 66 (US 66 or Route 66), also known as the Will Rogers Highway, the Main Street of America or the Mother Road, was one of the original highways within the U.S. Highway System. US 66 was established on November 11, 1926, with road signs erected the following year. The highway, which became one of the most famous roads in the United States, originally ran from Chicago, Illinois, through Missouri, Kansas, Oklahoma, Texas, New Mexico, and Arizona before ending at Santa Monica, California, covering a total of 2,448 miles (3,940 km). It was recognized in popular culture by both the hit song "(Get Your Kicks on) Route 66" and the Route 66 television show in the 1960s.
+Pan-Am Highway
+	The Pan-American Highway is a network of roads measuring about 30,000 kilometres (19,000 mi) in total length. Except for a rainforest break of approximately 160 km (100 mi), called the Darién Gap, the road links almost all of the Pacific coastal countries of the Americas in a connected highway system. According to Guinness World Records, the Pan-American Highway is the world's longest "motorable road". However, because of the Darién Gap, it is not possible to cross between South America and Central America with conventional highway vehicles. Without an all-terrain vehicle, it is necessary to circumnavigate this terrestrial stretch by sea.
 Write A Book
-	[insert text here]
+	Writing is a medium of human communication that represents language and emotion with signs and symbols. In most languages, writing is a complement to speech or spoken language. Writing is not a language, but a tool used to make languages be read. Within a language system, writing relies on many of the same structures as speech, such as vocabulary, grammar, and semantics, with the added dependency of a system of signs or symbols. The result of writing is called text, and the recipient of text is called a reader. Motivations for writing include publication, storytelling, correspondence, record keeping and diary. Writing has been instrumental in keeping history, maintaining culture, dissemination of knowledge through the media and the formation of legal systems.
 Cycle-Camping
-	[insert text here]
+	Cycle touring beyond the range of a day trip may need a bike capable of carrying heavy loads. Although many different bicycles can be used, specialist touring bikes are built to carry appropriate loads and to be ridden more comfortably over long distances. A typical bicycle would have a longer wheelbase for stability and heel clearance, frame fittings for front and rear pannier racks, additional water bottle mounts, frame fittings for front and rear mudguards/fenders, a broader range of gearing to cope with the increased weight, and touring tires which are wider to provide more comfort on backroads.
 Fly in a Helicopter
-	[insert text here]
+	A helicopter is a type of rotorcraft in which lift and thrust are supplied by rotors. This allows the helicopter to take off and land vertically, to hover, and to fly forward, backward, and laterally. These attributes allow helicopters to be used in congested or isolated areas where fixed-wing aircraft and many forms of VTOL (vertical takeoff and landing) aircraft cannot perform.
+	The English word helicopter is adapted from the French word hélicoptère, coined by Gustave Ponton d'Amécourt in 1861, which originates from the Greek helix (ἕλιξ) "helix, spiral, whirl, convolution" and pteron (πτερόν) "wing". English language nicknames for helicopter include "chopper", "copter", "helo", "heli", and "whirlybird".
 Go hunting
-	[insert text here]
+	Hunting is the practice of killing or trapping animals, or pursuing or tracking them with the intent of doing so. Hunting wildlife or feral animals is most commonly done by humans for food, recreation, to remove predators that are dangerous to humans or domestic animals, or for trade. Lawful hunting is distinguished from poaching, which is the illegal killing, trapping or capture of the hunted species. The species that are hunted are referred to as game or prey and are usually mammals and birds.
 Roadtrip South-Africa
-	[insert text here]
+	South Africa, officially the Republic of South Africa (RSA), is the southernmost country in Africa. It is bounded on the south by 2,798 kilometres (1,739 mi) of coastline of Southern Africa stretching along the South Atlantic and Indian Oceans; on the north by the neighbouring countries of Namibia, Botswana, and Zimbabwe; and on the east and northeast by Mozambique and Swaziland; and surrounds the kingdom of Lesotho. South Africa is the largest country in Southern Africa and the 25th-largest country in the world by land area and, with close to 56 million people, is the world's 24th-most populous nation. It is the southernmost country on the mainland of the Old World or the Eastern Hemisphere. About 80 percent of South Africans are of Sub-Saharan African ancestry, divided among a variety of ethnic groups speaking different African languages, nine of which have official status. The remaining population consists of Africa's largest communities of African (black), European (white), Asian (Indian), and multiracial (coloured) ancestry.
+
+
+>TRAVELTEXT
+Valencia
+	Valencia , officially València on the east coast of Spain, is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona, with around 800,000 inhabitants in the administrative centre. Its urban area extends beyond the administrative city limits with a population of around 1.5–1.6 million people. Valencia is Spain's third largest metropolitan area, with a population ranging from 1.7 to 2.5 million depending on how the metropolitan area is defined. The Port of Valencia is the 5th busiest container port in Europe and the busiest container port on the Mediterranean Sea. The city is ranked at Gamma+ in the Globalization and World Cities Research Network. Valencia is integrated into an industrial area on the Costa del Azahar (Orange Blossom Coast).
+Japan
+	The Japanese word for Japan is 日本, which is pronounced Nihon or Nippon and literally means "the origin of the sun". The character nichi (日) means "sun" or "day"; hon (本) means "base" or "origin". The compound therefore means "origin of the sun" and is the source of the popular Western epithet "Land of the Rising Sun".
+China
+	China, officially the People's Republic of China (PRC), is a unitary one-party sovereign state in East Asia and the world's most populous country, with a population of around 1.404 billion.Covering approximately 9,600,000 square kilometers (3,700,000 sq mi), it is the third- or fourth-largest country by total area, depending on the source consulted. China also has the most neighbor countries in the world. Governed by the Communist Party of China, it exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities (Beijing, Tianjin, Shanghai, and Chongqing), and the special administrative regions of Hong Kong and Macau.
+Chile
+	Chile, officially the Republic of Chile (Spanish: About this sound República de Chile (help·info)), is a South American country occupying a long, narrow strip of land between the Andes to the east and the Pacific Ocean to the west. It borders Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chilean territory includes the Pacific islands of Juan Fernández, Salas y Gómez, Desventuradas, and Easter Island in Oceania. Chile also claims about 1,250,000 square kilometres (480,000 sq mi) of Antarctica, although all claims are suspended under the Antarctic Treaty.
+USA
+	The United States of America (USA), commonly known as the United States (U.S.) or America, is a federal republic composed of 50 states, a federal district, five major self-governing territories, and various possessions.[fn 6] At 3.8 million square miles (9.8 million km2) and with over 325 million people, the United States is the world's third- or fourth-largest country by total area and the third-most populous country. The capital is Washington, D.C., and the largest city by population is New York City. Forty-eight states and the capital's federal district are contiguous and in North America between Canada and Mexico. The State of Alaska is in the northwest corner of North America, bordered by Canada to the east and across the Bering Strait from Russia to the west. The State of Hawaii is an archipelago in the mid-Pacific Ocean. The U.S. territories are scattered about the Pacific Ocean and the Caribbean Sea, stretching across nine official time zones. The extremely diverse geography, climate, and wildlife of the United States make it one of the world's 17 megadiverse countries.
+British Colombia
+	British Columbia is bordered to the west by the Pacific Ocean and the American state of Alaska, to the north by Yukon Territory and the Northwest Territories, to the east by the province of Alberta, and to the south by the American states of Washington, Idaho, and Montana. The southern border of British Columbia was established by the 1846 Oregon Treaty, although its history is tied with lands as far south as California. British Columbia's land area is 944,735 square kilometres (364,800 sq mi). British Columbia's rugged coastline stretches for more than 27,000 kilometres (17,000 mi), and includes deep, mountainous fjords and about 6,000 islands, most of which are uninhabited. It is the only province in Canada that borders the Pacific Ocean.
+Sahara Desert
+	The Sahara desert comprises much of North Africa, excluding the fertile region on the Mediterranean Sea coast, the Atlas Mountains of the Maghreb, and the Nile Valley in Egypt and Sudan. It stretches from the Red Sea in the east and the Mediterranean in the north to the Atlantic Ocean in the west, where the landscape gradually changes from desert to coastal plains. To the south, it is bounded by the Sahel, a belt of semi-arid tropical savanna around the Niger River valley and the Sudan Region of Sub-Saharan Africa. The Sahara can be divided into several regions including: the western Sahara, the central Ahaggar Mountains, the Tibesti Mountains, the Aïr Mountains, the Ténéré desert, and the Libyan Desert.
+India
+	India  also called the Republic of India is a country in South Asia. It is the seventh-largest country by area, the second-most populous country (with over 1.2 billion people), and the most populous democracy in the world. It is bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast. It shares land borders with Pakistan to the west; China, Nepal, and Bhutan to the northeast; and Bangladesh and Myanmar to the east. In the Indian Ocean, India is in the vicinity of Sri Lanka and the Maldives. India's Andaman and Nicobar Islands share a maritime border with Thailand and Indonesia.
 
 ------------------------------------
 
 
 Images:
-HOST ON GOOGLE DRIVE / GOOGLE PHOTOS
 ------------------------------------
 >>Main>
 aboutimage: 
 >>ToDo main page>
 	Skydive
+		https://images.pexels.com/photos/65310/pexels-photo-65310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=500&w=500
 	Route 66
-	Pan-American 
+		https://images.pexels.com/photos/210112/pexels-photo-210112.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=500
+	Pan-American
+		https://images.pexels.com/photos/1117267/pexels-photo-1117267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=500 
 	Write A Book
+		https://images.pexels.com/photos/24576/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=500
 	Cycle-Camping
+		https://images.pexels.com/photos/258045/pexels-photo-258045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=500
 	Fly in a Helicopter
+		https://images.pexels.com/photos/41174/action-air-aircraft-aviation-41174.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=500
 	Go hunting
+		https://images.pexels.com/photos/433077/pexels-photo-433077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=500
 	Roadtrip South-Africa
+		https://images.pexels.com/photos/259447/pexels-photo-259447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=500
 
 >>ToTravel main page>
 	Valencia
 		banner1
+			https://images.pexels.com/photos/256150/pexels-photo-256150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
 		banner2
+			https://images.pexels.com/photos/1068629/pexels-photo-1068629.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
 	Japan
 		banner1
+			https://images.pexels.com/photos/46253/mt-fuji-sea-of-clouds-sunrise-46253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
 		banner2
+			https://images.pexels.com/photos/427747/pexels-photo-427747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
 	China
 		banner1
+			https://images.pexels.com/photos/189833/pexels-photo-189833.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
 		banner2
+			https://images.pexels.com/photos/19885/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
 	Chile
 		banner1
+			https://images.pexels.com/photos/21787/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
 		banner2
+			https://images.pexels.com/photos/1060803/pexels-photo-1060803.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
 	USA
 		banner1
+			https://images.pexels.com/photos/414171/pexels-photo-414171.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
 		banner2
+			https://images.pexels.com/photos/213407/pexels-photo-213407.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
 	Britisch Colombia
 		banner1
+			https://images.pexels.com/photos/533616/pexels-photo-533616.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
 		banner2
+			https://images.pexels.com/photos/457937/pexels-photo-457937.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
 	Sahara Desert
 		banner1
+			https://images.pexels.com/photos/1123567/pexels-photo-1123567.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
 		banner2
+			https://images.pexels.com/photos/998656/pexels-photo-998656.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
 	India
 		banner1
+			https://images.pexels.com/photos/602607/pexels-photo-602607.png?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
 		banner2
+			https://images.pexels.com/photos/243108/pexels-photo-243108.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
+			
 
 ------------------------------------
