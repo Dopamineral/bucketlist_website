@@ -1,0 +1,88 @@
+Texts:
+------------------------------------
+>ABOUT
+
+
+>TODOS - Main Page
+Skydive
+Route 66
+Pan-American 
+Write A Book
+Cycle-Camping
+Fly in a Helicopter
+Go hunting
+Roadtrip South-Africa
+
+>TOTRAVEL - Main Page
+Valencia
+Japan
+China
+Chile
+USA
+Britisch Colombia
+Sahara Desert
+India
+
+>TODOTEXT
+Skydive
+	[insert text here]
+Route 66
+	[insert text here]
+Pan-American 
+	[insert text here]
+Write A Book
+	[insert text here]
+Cycle-Camping
+	[insert text here]
+Fly in a Helicopter
+	[insert text here]
+Go hunting
+	[insert text here]
+Roadtrip South-Africa
+	[insert text here]
+
+------------------------------------
+
+
+Images:
+HOST ON GOOGLE DRIVE / GOOGLE PHOTOS
+------------------------------------
+>>Main>
+aboutimage: 
+>>ToDo main page>
+	Skydive
+	Route 66
+	Pan-American 
+	Write A Book
+	Cycle-Camping
+	Fly in a Helicopter
+	Go hunting
+	Roadtrip South-Africa
+
+>>ToTravel main page>
+	Valencia
+		banner1
+		banner2
+	Japan
+		banner1
+		banner2
+	China
+		banner1
+		banner2
+	Chile
+		banner1
+		banner2
+	USA
+		banner1
+		banner2
+	Britisch Colombia
+		banner1
+		banner2
+	Sahara Desert
+		banner1
+		banner2
+	India
+		banner1
+		banner2
+
+------------------------------------
