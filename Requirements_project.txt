@@ -1,6 +1,0 @@
-Requirements
-
-Your website must include at least one list (ordered or unordered), at least one table, and at least one image.
-
-Your stylesheets must use at least one SCSS variable, at least one example of SCSS nesting, and at least one use of SCSS inheritance.
-
