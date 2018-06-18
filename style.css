@@ -31,7 +31,11 @@ nav a {
 }
 @media (max-width: 576px) {
 	#section-1 img{
-		width:50%;
+		width:70%;
+		margin-left:15%;
+		margin-right:15%;
+		margin-bottom:10px;
+
 		}
 }
 #section-1 .row{
@@ -61,6 +65,9 @@ tr:hover {
 /*-----------------------*/
 /*SECTION 2 */
 /*-----------------------*/
+#section-2 h2 {
+	font-size:40px;
+}
 #section-2 img {
 	width:100%;
 }
@@ -73,6 +80,7 @@ tr:hover {
 }
 #section-2 p {
 	font-family:'Roboto';
+	font-style:oblique;
 	font-size:25px;
 	background-color:#f6f6f6;
 	padding:5px;
@@ -88,10 +96,54 @@ tr:hover {
 /*SECTION 3*/
 /*-----------------------*/
 
+#section-3 h2 {
+	font-size:40px;
+}
 #section-3 img {
 	width:100%;
 }
+#section-3 img:hover {
+	opacity:0.5;
+}
+#section-3 h2 {
+	text-align:center;
+	border-bottom:solid 3px #ddd;
+}
+#section-3 p {
+	font-family:'Bangers';
+	font-size:35px;
+	padding:5px;
+	text-align: center;
+	display:inline-block;
+	margin-right: 15%;
+	margin-left:25%;
+}
+#section-3 i {
+	text-align: right;
+	font-size: 30px;
+}
+#section-3 i:hover {
+	color:#d00;
+	font-size:40px;
+}
+
 #section-3 {
-	padding-top: 50px;
+	padding-top: 20px;
 	margin-bottom: 50px;
 } 
+
+/*-----------------------*/
+/*SECTION 3*/
+/*-----------------------*/
+footer {
+	padding-top:50px;
+	padding-bottom: 50px;
+	background-color: #eee;
+}
+footer i {
+	padding:5%;
+	font-size: 25px;
+}
+footer i:hover {
+	color:#d00;
+}
